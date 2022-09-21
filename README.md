@@ -13,4 +13,4 @@ SVM 이미지 출력 모듈
 SVM 이미지 합성 코드
 
 ### 결과
-![](result.jpg)
+![](result.png)
